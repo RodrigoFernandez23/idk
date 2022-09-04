@@ -7,7 +7,7 @@
 
 .header {
     background: #9766eb;
-    padding: 1rem 0;
+    padding: 2rem 0;
 }
 
 .header a {
@@ -50,13 +50,12 @@
 
 .content img{
     width: 120px;
-    height: 72px;
+    height: 60px;
     float: left;
-    border: #434343;
-    border-radius: 10%;
+    border-radius: 7%;
     margin-right: 70px;
     position: relative;
-    left: 0;
+    left: 5px;
     top: -20px;
 
 }
